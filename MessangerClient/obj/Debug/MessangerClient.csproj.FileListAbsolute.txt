@@ -1,0 +1,7 @@
+C:\Users\ssenchh\source\repos\MessangerClient\MessangerClient\bin\Debug\MessangerClient.exe.config
+C:\Users\ssenchh\source\repos\MessangerClient\MessangerClient\bin\Debug\MessangerClient.exe
+C:\Users\ssenchh\source\repos\MessangerClient\MessangerClient\bin\Debug\MessangerClient.pdb
+C:\Users\ssenchh\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.csprojAssemblyReference.cache
+C:\Users\ssenchh\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.csproj.CoreCompileInputs.cache
+C:\Users\ssenchh\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.exe
+C:\Users\ssenchh\source\repos\MessangerClient\MessangerClient\obj\Debug\MessangerClient.pdb
